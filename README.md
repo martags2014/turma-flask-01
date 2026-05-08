@@ -10,3 +10,9 @@ Exercício de Git e GitHub
 - git checkout -b nova-branch
 - git clone URL
 - git branch
+
+#Fluxo de trabalho
+1. Criar Nova Branch
+2. Dar Commits
+3. Executar git push
+4. Abrir pull request
